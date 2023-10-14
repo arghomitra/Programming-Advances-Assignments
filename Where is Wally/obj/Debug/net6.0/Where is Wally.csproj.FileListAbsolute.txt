@@ -1,0 +1,15 @@
+E:\Programming Advanced\Assignments\Where is Wally\bin\Debug\net6.0\Where is Wally.exe
+E:\Programming Advanced\Assignments\Where is Wally\bin\Debug\net6.0\Where is Wally.deps.json
+E:\Programming Advanced\Assignments\Where is Wally\bin\Debug\net6.0\Where is Wally.runtimeconfig.json
+E:\Programming Advanced\Assignments\Where is Wally\bin\Debug\net6.0\Where is Wally.dll
+E:\Programming Advanced\Assignments\Where is Wally\bin\Debug\net6.0\Where is Wally.pdb
+E:\Programming Advanced\Assignments\Where is Wally\obj\Debug\net6.0\Where is Wally.csproj.AssemblyReference.cache
+E:\Programming Advanced\Assignments\Where is Wally\obj\Debug\net6.0\Where is Wally.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Advanced\Assignments\Where is Wally\obj\Debug\net6.0\Where is Wally.AssemblyInfoInputs.cache
+E:\Programming Advanced\Assignments\Where is Wally\obj\Debug\net6.0\Where is Wally.AssemblyInfo.cs
+E:\Programming Advanced\Assignments\Where is Wally\obj\Debug\net6.0\Where is Wally.csproj.CoreCompileInputs.cache
+E:\Programming Advanced\Assignments\Where is Wally\obj\Debug\net6.0\Where is Wally.dll
+E:\Programming Advanced\Assignments\Where is Wally\obj\Debug\net6.0\refint\Where is Wally.dll
+E:\Programming Advanced\Assignments\Where is Wally\obj\Debug\net6.0\Where is Wally.pdb
+E:\Programming Advanced\Assignments\Where is Wally\obj\Debug\net6.0\Where is Wally.genruntimeconfig.cache
+E:\Programming Advanced\Assignments\Where is Wally\obj\Debug\net6.0\ref\Where is Wally.dll

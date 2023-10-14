@@ -1,0 +1,15 @@
+E:\Programming Advanced\Assignments\01 Duplicates\bin\Debug\net6.0\Module_test.exe
+E:\Programming Advanced\Assignments\01 Duplicates\bin\Debug\net6.0\Module_test.deps.json
+E:\Programming Advanced\Assignments\01 Duplicates\bin\Debug\net6.0\Module_test.runtimeconfig.json
+E:\Programming Advanced\Assignments\01 Duplicates\bin\Debug\net6.0\Module_test.dll
+E:\Programming Advanced\Assignments\01 Duplicates\bin\Debug\net6.0\Module_test.pdb
+E:\Programming Advanced\Assignments\01 Duplicates\obj\Debug\net6.0\Module_test.csproj.AssemblyReference.cache
+E:\Programming Advanced\Assignments\01 Duplicates\obj\Debug\net6.0\Module_test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Advanced\Assignments\01 Duplicates\obj\Debug\net6.0\Module_test.AssemblyInfoInputs.cache
+E:\Programming Advanced\Assignments\01 Duplicates\obj\Debug\net6.0\Module_test.AssemblyInfo.cs
+E:\Programming Advanced\Assignments\01 Duplicates\obj\Debug\net6.0\Module_test.csproj.CoreCompileInputs.cache
+E:\Programming Advanced\Assignments\01 Duplicates\obj\Debug\net6.0\Module_test.dll
+E:\Programming Advanced\Assignments\01 Duplicates\obj\Debug\net6.0\refint\Module_test.dll
+E:\Programming Advanced\Assignments\01 Duplicates\obj\Debug\net6.0\Module_test.pdb
+E:\Programming Advanced\Assignments\01 Duplicates\obj\Debug\net6.0\Module_test.genruntimeconfig.cache
+E:\Programming Advanced\Assignments\01 Duplicates\obj\Debug\net6.0\ref\Module_test.dll
