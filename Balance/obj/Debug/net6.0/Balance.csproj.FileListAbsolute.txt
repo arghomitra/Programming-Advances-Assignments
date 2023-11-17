@@ -1,0 +1,15 @@
+E:\Programming Advanced\Assignments\Balance\obj\Debug\net6.0\Balance.csproj.AssemblyReference.cache
+E:\Programming Advanced\Assignments\Balance\obj\Debug\net6.0\Balance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Advanced\Assignments\Balance\obj\Debug\net6.0\Balance.AssemblyInfoInputs.cache
+E:\Programming Advanced\Assignments\Balance\obj\Debug\net6.0\Balance.AssemblyInfo.cs
+E:\Programming Advanced\Assignments\Balance\obj\Debug\net6.0\Balance.csproj.CoreCompileInputs.cache
+E:\Programming Advanced\Assignments\Balance\bin\Debug\net6.0\Balance.exe
+E:\Programming Advanced\Assignments\Balance\bin\Debug\net6.0\Balance.deps.json
+E:\Programming Advanced\Assignments\Balance\bin\Debug\net6.0\Balance.runtimeconfig.json
+E:\Programming Advanced\Assignments\Balance\bin\Debug\net6.0\Balance.dll
+E:\Programming Advanced\Assignments\Balance\bin\Debug\net6.0\Balance.pdb
+E:\Programming Advanced\Assignments\Balance\obj\Debug\net6.0\Balance.dll
+E:\Programming Advanced\Assignments\Balance\obj\Debug\net6.0\refint\Balance.dll
+E:\Programming Advanced\Assignments\Balance\obj\Debug\net6.0\Balance.pdb
+E:\Programming Advanced\Assignments\Balance\obj\Debug\net6.0\Balance.genruntimeconfig.cache
+E:\Programming Advanced\Assignments\Balance\obj\Debug\net6.0\ref\Balance.dll

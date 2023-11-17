@@ -1,0 +1,15 @@
+E:\Programming Advanced\Assignments\06 Missing link\bin\Debug\net6.0\06 Missing link.exe
+E:\Programming Advanced\Assignments\06 Missing link\bin\Debug\net6.0\06 Missing link.deps.json
+E:\Programming Advanced\Assignments\06 Missing link\bin\Debug\net6.0\06 Missing link.runtimeconfig.json
+E:\Programming Advanced\Assignments\06 Missing link\bin\Debug\net6.0\06 Missing link.dll
+E:\Programming Advanced\Assignments\06 Missing link\bin\Debug\net6.0\06 Missing link.pdb
+E:\Programming Advanced\Assignments\06 Missing link\obj\Debug\net6.0\06 Missing link.csproj.AssemblyReference.cache
+E:\Programming Advanced\Assignments\06 Missing link\obj\Debug\net6.0\06 Missing link.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Advanced\Assignments\06 Missing link\obj\Debug\net6.0\06 Missing link.AssemblyInfoInputs.cache
+E:\Programming Advanced\Assignments\06 Missing link\obj\Debug\net6.0\06 Missing link.AssemblyInfo.cs
+E:\Programming Advanced\Assignments\06 Missing link\obj\Debug\net6.0\06 Missing link.csproj.CoreCompileInputs.cache
+E:\Programming Advanced\Assignments\06 Missing link\obj\Debug\net6.0\06 Missing link.dll
+E:\Programming Advanced\Assignments\06 Missing link\obj\Debug\net6.0\refint\06 Missing link.dll
+E:\Programming Advanced\Assignments\06 Missing link\obj\Debug\net6.0\06 Missing link.pdb
+E:\Programming Advanced\Assignments\06 Missing link\obj\Debug\net6.0\06 Missing link.genruntimeconfig.cache
+E:\Programming Advanced\Assignments\06 Missing link\obj\Debug\net6.0\ref\06 Missing link.dll
