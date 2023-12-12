@@ -1,0 +1,15 @@
+E:\Programming Advanced\Assignments\10 Add or Delete\bin\Debug\net6.0\10 Add or Delete.exe
+E:\Programming Advanced\Assignments\10 Add or Delete\bin\Debug\net6.0\10 Add or Delete.deps.json
+E:\Programming Advanced\Assignments\10 Add or Delete\bin\Debug\net6.0\10 Add or Delete.runtimeconfig.json
+E:\Programming Advanced\Assignments\10 Add or Delete\bin\Debug\net6.0\10 Add or Delete.dll
+E:\Programming Advanced\Assignments\10 Add or Delete\bin\Debug\net6.0\10 Add or Delete.pdb
+E:\Programming Advanced\Assignments\10 Add or Delete\obj\Debug\net6.0\10 Add or Delete.csproj.AssemblyReference.cache
+E:\Programming Advanced\Assignments\10 Add or Delete\obj\Debug\net6.0\10 Add or Delete.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Advanced\Assignments\10 Add or Delete\obj\Debug\net6.0\10 Add or Delete.AssemblyInfoInputs.cache
+E:\Programming Advanced\Assignments\10 Add or Delete\obj\Debug\net6.0\10 Add or Delete.AssemblyInfo.cs
+E:\Programming Advanced\Assignments\10 Add or Delete\obj\Debug\net6.0\10 Add or Delete.csproj.CoreCompileInputs.cache
+E:\Programming Advanced\Assignments\10 Add or Delete\obj\Debug\net6.0\10 Add or Delete.dll
+E:\Programming Advanced\Assignments\10 Add or Delete\obj\Debug\net6.0\refint\10 Add or Delete.dll
+E:\Programming Advanced\Assignments\10 Add or Delete\obj\Debug\net6.0\10 Add or Delete.pdb
+E:\Programming Advanced\Assignments\10 Add or Delete\obj\Debug\net6.0\10 Add or Delete.genruntimeconfig.cache
+E:\Programming Advanced\Assignments\10 Add or Delete\obj\Debug\net6.0\ref\10 Add or Delete.dll

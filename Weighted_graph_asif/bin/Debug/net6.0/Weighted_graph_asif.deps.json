@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Weighted_graph_asif/1.0.0": {
+        "runtime": {
+          "Weighted_graph_asif.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weighted_graph_asif/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

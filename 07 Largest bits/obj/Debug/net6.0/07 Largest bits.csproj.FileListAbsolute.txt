@@ -1,0 +1,15 @@
+E:\Programming Advanced\Assignments\07 Largest bits\bin\Debug\net6.0\07 Largest bits.exe
+E:\Programming Advanced\Assignments\07 Largest bits\bin\Debug\net6.0\07 Largest bits.deps.json
+E:\Programming Advanced\Assignments\07 Largest bits\bin\Debug\net6.0\07 Largest bits.runtimeconfig.json
+E:\Programming Advanced\Assignments\07 Largest bits\bin\Debug\net6.0\07 Largest bits.dll
+E:\Programming Advanced\Assignments\07 Largest bits\bin\Debug\net6.0\07 Largest bits.pdb
+E:\Programming Advanced\Assignments\07 Largest bits\obj\Debug\net6.0\07 Largest bits.csproj.AssemblyReference.cache
+E:\Programming Advanced\Assignments\07 Largest bits\obj\Debug\net6.0\07 Largest bits.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Advanced\Assignments\07 Largest bits\obj\Debug\net6.0\07 Largest bits.AssemblyInfoInputs.cache
+E:\Programming Advanced\Assignments\07 Largest bits\obj\Debug\net6.0\07 Largest bits.AssemblyInfo.cs
+E:\Programming Advanced\Assignments\07 Largest bits\obj\Debug\net6.0\07 Largest bits.csproj.CoreCompileInputs.cache
+E:\Programming Advanced\Assignments\07 Largest bits\obj\Debug\net6.0\07 Largest bits.dll
+E:\Programming Advanced\Assignments\07 Largest bits\obj\Debug\net6.0\refint\07 Largest bits.dll
+E:\Programming Advanced\Assignments\07 Largest bits\obj\Debug\net6.0\07 Largest bits.pdb
+E:\Programming Advanced\Assignments\07 Largest bits\obj\Debug\net6.0\07 Largest bits.genruntimeconfig.cache
+E:\Programming Advanced\Assignments\07 Largest bits\obj\Debug\net6.0\ref\07 Largest bits.dll
